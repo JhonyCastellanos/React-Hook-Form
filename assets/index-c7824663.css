@@ -1,0 +1,1 @@
+:root{--bg-color: #071952;--first-color: #0b666a;--second-color: #35a29f;--main-color: #97feed;--error-color: #ff592b}body{background:var(--bg-color);color:#fff;display:flex;justify-content:center;align-items:center;min-height:100vh}label{display:block}input,select{width:100%}span{display:block;color:var(--error-color);font-size:small}
